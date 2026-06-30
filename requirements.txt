@@ -1,0 +1,7 @@
+matplotlib
+nba_api
+numpy
+pandas
+pytest
+requests
+scikit-learn

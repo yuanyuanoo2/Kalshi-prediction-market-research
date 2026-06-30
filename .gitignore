@@ -1,0 +1,9 @@
+data/raw/
+data/processed/*.pkl
+data/processed/nba_pbp*.csv
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.claude/
+.Rhistory
